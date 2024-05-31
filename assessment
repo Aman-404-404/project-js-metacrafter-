@@ -1,4 +1,4 @@
-/* 
+w/* 
 // Metacrafters - Beginning Javascript
 //
 // This is a javascript playground for testing your javascript code!
@@ -54,6 +54,6 @@ function getTotalSupply() {
 mintNFT("Aman", "black", "shirt full sleeve", " Gold bracelet");
 mintNFT("Pankaj", "grey", "Hoodie", "Gold chain");
 mintNFT("Harsh", "blue", "Jacket", "Ear ring");
-mintNFT("Amit", "orange", "Hoodie", "Silver bracelet");
+mintNFT("Amit", "brown", "Hoodie", "Silver bracelet");
 listNFTs();
 getTotalSupply();
